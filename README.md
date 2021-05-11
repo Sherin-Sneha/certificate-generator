@@ -20,3 +20,4 @@ On the client, move to csv-upload page:
 
 "# certificate-generator-react-app" 
 "# certificate-generator-react-app" 
+"# certificate-generator" 
