@@ -34,17 +34,17 @@ const templates = {
           title: 'Field 1',
           textAlign: 'center',
           fontfamily: "Montserrat",
-          x: 1500,
-          y: 1100,
-          size: 65,
+          x: 1357,
+          y: 1101,
+          size: 85,
         },
         {
           title: 'Field 2',
           textAlign: 'center',
           fontfamily: "Montserrat",
-          x: 1070,
+          x: 1208,
           y: 2000,
-          size: 50
+          size: 51
         },
       ]
     }
